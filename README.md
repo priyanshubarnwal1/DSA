@@ -10,6 +10,7 @@
 | [0229-majority-element-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0229-majority-element-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priyanshubarnwal1/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/priyanshubarnwal1/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2404-most-frequent-even-element](https://github.com/priyanshubarnwal1/DSA/tree/master/2404-most-frequent-even-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,6 +18,7 @@
 | [0229-majority-element-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0229-majority-element-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priyanshubarnwal1/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priyanshubarnwal1/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2404-most-frequent-even-element](https://github.com/priyanshubarnwal1/DSA/tree/master/2404-most-frequent-even-element) |
 ## Math
 |  |
 | ------- |
@@ -49,4 +51,5 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0229-majority-element-ii) |
+| [2404-most-frequent-even-element](https://github.com/priyanshubarnwal1/DSA/tree/master/2404-most-frequent-even-element) |
 <!---LeetCode Topics End-->
