@@ -7,12 +7,14 @@
 | [0001-two-sum](https://github.com/priyanshubarnwal1/DSA/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/priyanshubarnwal1/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0119-pascals-triangle-ii) |
+| [0229-majority-element-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0229-majority-element-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priyanshubarnwal1/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/priyanshubarnwal1/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/priyanshubarnwal1/DSA/tree/master/0001-two-sum) |
+| [0229-majority-element-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0229-majority-element-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priyanshubarnwal1/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priyanshubarnwal1/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Math
@@ -39,4 +41,12 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/priyanshubarnwal1/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0119-pascals-triangle-ii) |
+## Sorting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
