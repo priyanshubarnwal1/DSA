@@ -10,6 +10,7 @@
 | [0229-majority-element-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0229-majority-element-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priyanshubarnwal1/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/priyanshubarnwal1/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyanshubarnwal1/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2404-most-frequent-even-element](https://github.com/priyanshubarnwal1/DSA/tree/master/2404-most-frequent-even-element) |
 ## Hash Table
 |  |
@@ -47,9 +48,14 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0229-majority-element-ii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyanshubarnwal1/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0229-majority-element-ii) |
 | [2404-most-frequent-even-element](https://github.com/priyanshubarnwal1/DSA/tree/master/2404-most-frequent-even-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyanshubarnwal1/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
