@@ -27,6 +27,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/priyanshubarnwal1/DSA/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/priyanshubarnwal1/DSA/tree/master/0202-happy-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priyanshubarnwal1/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Sliding Window
