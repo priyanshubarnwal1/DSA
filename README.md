@@ -54,6 +54,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/priyanshubarnwal1/DSA/tree/master/0148-sort-list) |
 | [0229-majority-element-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0229-majority-element-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyanshubarnwal1/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
@@ -72,6 +73,7 @@
 | [0141-linked-list-cycle](https://github.com/priyanshubarnwal1/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/priyanshubarnwal1/DSA/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/priyanshubarnwal1/DSA/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/priyanshubarnwal1/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/priyanshubarnwal1/DSA/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/priyanshubarnwal1/DSA/tree/master/0328-odd-even-linked-list) |
@@ -85,6 +87,7 @@
 | [0141-linked-list-cycle](https://github.com/priyanshubarnwal1/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/priyanshubarnwal1/DSA/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/priyanshubarnwal1/DSA/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/priyanshubarnwal1/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/priyanshubarnwal1/DSA/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/priyanshubarnwal1/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -110,4 +113,12 @@
 | [0143-reorder-list](https://github.com/priyanshubarnwal1/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/priyanshubarnwal1/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/priyanshubarnwal1/DSA/tree/master/0234-palindrome-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/priyanshubarnwal1/DSA/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/priyanshubarnwal1/DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
