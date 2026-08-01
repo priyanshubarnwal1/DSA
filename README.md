@@ -32,6 +32,7 @@
 | [0009-palindrome-number](https://github.com/priyanshubarnwal1/DSA/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/priyanshubarnwal1/DSA/tree/master/0202-happy-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priyanshubarnwal1/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1903-largest-odd-number-in-string](https://github.com/priyanshubarnwal1/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -48,6 +49,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/priyanshubarnwal1/DSA/tree/master/0125-valid-palindrome) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priyanshubarnwal1/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1903-largest-odd-number-in-string](https://github.com/priyanshubarnwal1/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -129,4 +131,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/priyanshubarnwal1/DSA/tree/master/0148-sort-list) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/priyanshubarnwal1/DSA/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
