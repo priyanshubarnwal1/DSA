@@ -10,6 +10,7 @@
 | [0119-pascals-triangle-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0229-majority-element-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/priyanshubarnwal1/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0918-maximum-sum-circular-subarray](https://github.com/priyanshubarnwal1/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/priyanshubarnwal1/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priyanshubarnwal1/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/priyanshubarnwal1/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -59,6 +60,7 @@
 | [0053-maximum-subarray](https://github.com/priyanshubarnwal1/DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/priyanshubarnwal1/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0119-pascals-triangle-ii) |
+| [0918-maximum-sum-circular-subarray](https://github.com/priyanshubarnwal1/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/priyanshubarnwal1/DSA/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/priyanshubarnwal1/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Sorting
@@ -134,6 +136,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/priyanshubarnwal1/DSA/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/priyanshubarnwal1/DSA/tree/master/0148-sort-list) |
+| [0918-maximum-sum-circular-subarray](https://github.com/priyanshubarnwal1/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 ## Merge Sort
 |  |
 | ------- |
@@ -142,4 +145,12 @@
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/priyanshubarnwal1/DSA/tree/master/1903-largest-odd-number-in-string) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/priyanshubarnwal1/DSA/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/priyanshubarnwal1/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
