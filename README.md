@@ -8,6 +8,7 @@
 | [0053-maximum-subarray](https://github.com/priyanshubarnwal1/DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/priyanshubarnwal1/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0119-pascals-triangle-ii) |
+| [0217-contains-duplicate](https://github.com/priyanshubarnwal1/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/priyanshubarnwal1/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0724-find-pivot-index](https://github.com/priyanshubarnwal1/DSA/tree/master/0724-find-pivot-index) |
@@ -26,6 +27,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/priyanshubarnwal1/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/priyanshubarnwal1/DSA/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/priyanshubarnwal1/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/priyanshubarnwal1/DSA/tree/master/0242-valid-anagram) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priyanshubarnwal1/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -71,6 +73,7 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/priyanshubarnwal1/DSA/tree/master/0148-sort-list) |
+| [0217-contains-duplicate](https://github.com/priyanshubarnwal1/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/priyanshubarnwal1/DSA/tree/master/0242-valid-anagram) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyanshubarnwal1/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
