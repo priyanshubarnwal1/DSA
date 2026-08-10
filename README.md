@@ -13,6 +13,7 @@
 | [0287-find-the-duplicate-number](https://github.com/priyanshubarnwal1/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/priyanshubarnwal1/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0525-contiguous-array](https://github.com/priyanshubarnwal1/DSA/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/priyanshubarnwal1/DSA/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/priyanshubarnwal1/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/priyanshubarnwal1/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -35,6 +36,7 @@
 | [0242-valid-anagram](https://github.com/priyanshubarnwal1/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/priyanshubarnwal1/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0525-contiguous-array](https://github.com/priyanshubarnwal1/DSA/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/priyanshubarnwal1/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priyanshubarnwal1/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priyanshubarnwal1/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -56,6 +58,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/priyanshubarnwal1/DSA/tree/master/0525-contiguous-array) |
 | [0724-find-pivot-index](https://github.com/priyanshubarnwal1/DSA/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/priyanshubarnwal1/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priyanshubarnwal1/DSA/tree/master/1248-count-number-of-nice-subarrays) |
