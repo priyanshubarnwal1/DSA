@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/priyanshubarnwal1/DSA/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/priyanshubarnwal1/DSA/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/priyanshubarnwal1/DSA/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/priyanshubarnwal1/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0217-contains-duplicate](https://github.com/priyanshubarnwal1/DSA/tree/master/0217-contains-duplicate) |
@@ -82,6 +83,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/priyanshubarnwal1/DSA/tree/master/0056-merge-intervals) |
 | [0148-sort-list](https://github.com/priyanshubarnwal1/DSA/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/priyanshubarnwal1/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0229-majority-element-ii) |
@@ -208,4 +210,8 @@
 | ------- |
 | [0100-same-tree](https://github.com/priyanshubarnwal1/DSA/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/priyanshubarnwal1/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/priyanshubarnwal1/DSA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
