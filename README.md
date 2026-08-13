@@ -15,6 +15,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/priyanshubarnwal1/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0525-contiguous-array](https://github.com/priyanshubarnwal1/DSA/tree/master/0525-contiguous-array) |
+| [0704-binary-search](https://github.com/priyanshubarnwal1/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/priyanshubarnwal1/DSA/tree/master/0724-find-pivot-index) |
 | [0918-maximum-sum-circular-subarray](https://github.com/priyanshubarnwal1/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/priyanshubarnwal1/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -141,6 +142,7 @@
 | [0287-find-the-duplicate-number](https://github.com/priyanshubarnwal1/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/priyanshubarnwal1/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0704-binary-search](https://github.com/priyanshubarnwal1/DSA/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
