@@ -12,6 +12,7 @@
 | [0056-merge-intervals](https://github.com/priyanshubarnwal1/DSA/tree/master/0056-merge-intervals) |
 | [0118-pascals-triangle](https://github.com/priyanshubarnwal1/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0119-pascals-triangle-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/priyanshubarnwal1/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/priyanshubarnwal1/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0229-majority-element-ii) |
 | [0287-find-the-duplicate-number](https://github.com/priyanshubarnwal1/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -145,6 +146,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/priyanshubarnwal1/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/priyanshubarnwal1/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/priyanshubarnwal1/DSA/tree/master/0035-search-insert-position) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/priyanshubarnwal1/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/priyanshubarnwal1/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/priyanshubarnwal1/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
