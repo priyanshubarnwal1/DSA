@@ -82,6 +82,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/priyanshubarnwal1/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/priyanshubarnwal1/DSA/tree/master/0242-valid-anagram) |
+| [1021-remove-outermost-parentheses](https://github.com/priyanshubarnwal1/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priyanshubarnwal1/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/priyanshubarnwal1/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
@@ -177,6 +178,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/priyanshubarnwal1/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/priyanshubarnwal1/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/priyanshubarnwal1/DSA/tree/master/0234-palindrome-linked-list) |
+| [1021-remove-outermost-parentheses](https://github.com/priyanshubarnwal1/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/priyanshubarnwal1/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
@@ -251,4 +253,8 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/priyanshubarnwal1/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/priyanshubarnwal1/DSA/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
