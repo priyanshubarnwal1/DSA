@@ -90,6 +90,7 @@
 | [0796-rotate-string](https://github.com/priyanshubarnwal1/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/priyanshubarnwal1/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priyanshubarnwal1/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/priyanshubarnwal1/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/priyanshubarnwal1/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
@@ -189,6 +190,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/priyanshubarnwal1/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/priyanshubarnwal1/DSA/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/priyanshubarnwal1/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/priyanshubarnwal1/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/priyanshubarnwal1/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
@@ -267,6 +269,7 @@
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/priyanshubarnwal1/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/priyanshubarnwal1/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
 | ------- |
