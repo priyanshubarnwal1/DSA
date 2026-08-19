@@ -50,6 +50,7 @@
 | [0242-valid-anagram](https://github.com/priyanshubarnwal1/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/priyanshubarnwal1/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/priyanshubarnwal1/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/priyanshubarnwal1/DSA/tree/master/0525-contiguous-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/priyanshubarnwal1/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priyanshubarnwal1/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -85,6 +86,7 @@
 | [0125-valid-palindrome](https://github.com/priyanshubarnwal1/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/priyanshubarnwal1/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/priyanshubarnwal1/DSA/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/priyanshubarnwal1/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/priyanshubarnwal1/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/priyanshubarnwal1/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priyanshubarnwal1/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -109,15 +111,18 @@
 | [0242-valid-anagram](https://github.com/priyanshubarnwal1/DSA/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/priyanshubarnwal1/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/priyanshubarnwal1/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyanshubarnwal1/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/priyanshubarnwal1/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [2404-most-frequent-even-element](https://github.com/priyanshubarnwal1/DSA/tree/master/2404-most-frequent-even-element) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/priyanshubarnwal1/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyanshubarnwal1/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Linked List
 |  |
@@ -270,4 +275,8 @@
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/priyanshubarnwal1/DSA/tree/master/0796-rotate-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/priyanshubarnwal1/DSA/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
