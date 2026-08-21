@@ -56,6 +56,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/priyanshubarnwal1/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priyanshubarnwal1/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priyanshubarnwal1/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/priyanshubarnwal1/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2404-most-frequent-even-element](https://github.com/priyanshubarnwal1/DSA/tree/master/2404-most-frequent-even-element) |
 ## Math
 |  |
@@ -95,6 +96,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/priyanshubarnwal1/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/priyanshubarnwal1/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/priyanshubarnwal1/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/priyanshubarnwal1/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/priyanshubarnwal1/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
@@ -124,6 +126,7 @@
 | ------- |
 | [0229-majority-element-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/priyanshubarnwal1/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/priyanshubarnwal1/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2404-most-frequent-even-element](https://github.com/priyanshubarnwal1/DSA/tree/master/2404-most-frequent-even-element) |
 ## Heap (Priority Queue)
 |  |
