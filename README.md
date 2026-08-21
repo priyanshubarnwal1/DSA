@@ -84,6 +84,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/priyanshubarnwal1/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/priyanshubarnwal1/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/priyanshubarnwal1/DSA/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/priyanshubarnwal1/DSA/tree/master/0125-valid-palindrome) |
@@ -98,6 +99,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/priyanshubarnwal1/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/priyanshubarnwal1/DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/priyanshubarnwal1/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0119-pascals-triangle-ii) |
@@ -147,6 +149,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/priyanshubarnwal1/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/priyanshubarnwal1/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/priyanshubarnwal1/DSA/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/priyanshubarnwal1/DSA/tree/master/0141-linked-list-cycle) |
@@ -285,4 +288,8 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/priyanshubarnwal1/DSA/tree/master/0451-sort-characters-by-frequency) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/priyanshubarnwal1/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
