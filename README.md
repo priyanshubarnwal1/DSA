@@ -65,6 +65,7 @@
 | [0009-palindrome-number](https://github.com/priyanshubarnwal1/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/priyanshubarnwal1/DSA/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/priyanshubarnwal1/DSA/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/priyanshubarnwal1/DSA/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priyanshubarnwal1/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/priyanshubarnwal1/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Sliding Window
@@ -189,6 +190,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/priyanshubarnwal1/DSA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/priyanshubarnwal1/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Stack
 |  |
@@ -208,6 +210,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/priyanshubarnwal1/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/priyanshubarnwal1/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/priyanshubarnwal1/DSA/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/priyanshubarnwal1/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/priyanshubarnwal1/DSA/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
