@@ -12,6 +12,7 @@
 | [0053-maximum-subarray](https://github.com/priyanshubarnwal1/DSA/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/priyanshubarnwal1/DSA/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/priyanshubarnwal1/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/priyanshubarnwal1/DSA/tree/master/0078-subsets) |
 | [0118-pascals-triangle](https://github.com/priyanshubarnwal1/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/priyanshubarnwal1/DSA/tree/master/0136-single-number) |
@@ -191,6 +192,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/priyanshubarnwal1/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/priyanshubarnwal1/DSA/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/priyanshubarnwal1/DSA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/priyanshubarnwal1/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -301,4 +303,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/priyanshubarnwal1/DSA/tree/master/0005-longest-palindromic-substring) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/priyanshubarnwal1/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
