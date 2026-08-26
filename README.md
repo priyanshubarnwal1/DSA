@@ -18,6 +18,7 @@
 | [0136-single-number](https://github.com/priyanshubarnwal1/DSA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/priyanshubarnwal1/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/priyanshubarnwal1/DSA/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/priyanshubarnwal1/DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/priyanshubarnwal1/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -67,6 +68,7 @@
 | [0009-palindrome-number](https://github.com/priyanshubarnwal1/DSA/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/priyanshubarnwal1/DSA/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/priyanshubarnwal1/DSA/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/priyanshubarnwal1/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/priyanshubarnwal1/DSA/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priyanshubarnwal1/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/priyanshubarnwal1/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -307,4 +309,24 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/priyanshubarnwal1/DSA/tree/master/0078-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/priyanshubarnwal1/DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/priyanshubarnwal1/DSA/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/priyanshubarnwal1/DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/priyanshubarnwal1/DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/priyanshubarnwal1/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
