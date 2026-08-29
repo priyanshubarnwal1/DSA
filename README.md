@@ -73,6 +73,7 @@
 | [0231-power-of-two](https://github.com/priyanshubarnwal1/DSA/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priyanshubarnwal1/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/priyanshubarnwal1/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/priyanshubarnwal1/DSA/tree/master/1922-count-good-numbers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -221,6 +222,7 @@
 | [0206-reverse-linked-list](https://github.com/priyanshubarnwal1/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/priyanshubarnwal1/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/priyanshubarnwal1/DSA/tree/master/0234-palindrome-linked-list) |
+| [1922-count-good-numbers](https://github.com/priyanshubarnwal1/DSA/tree/master/1922-count-good-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
