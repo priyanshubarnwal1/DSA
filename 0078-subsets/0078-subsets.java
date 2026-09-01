@@ -1,29 +1,28 @@
 class Solution {
-    public List<List<Integer>> subsets(int[] nums) {
-          int n = nums.length;
+     void func(int ind, int[] nums, List<List<Integer>> ans, List<Integer> ds) {
 
- 
-        int subsets = 1 << n;
+        // Add current subset
+        ans.add(new ArrayList<>(ds));
 
-    
-        List<List<Integer>> ans = new ArrayList<>();
+        for (int i = ind; i < nums.length; i++) {
 
+            // Pick
+            ds.add(nums[i]);
 
-        for (int num = 0; num < subsets; num++) {
-        
-            List<Integer> subset = new ArrayList<>();
+            func(i + 1, nums, ans, ds);
 
-           
-            for (int i = 0; i < n; i++) {
-            
-                if ((num & (1 << i)) != 0) {
-                    subset.add(nums[i]);
-                }
-            }
-
-        
-            ans.add(subset);
+            // Backtrack
+            ds.remove(ds.size() - 1);
         }
+    }
+
+    public List<List<Integer>> subsets(int[] nums) {
+
+        List<List<Integer>> ans = new ArrayList<>();
+        List<Integer> ds = new ArrayList<>();
+
+        func(0, nums, ans, ds);
+
         return ans;
     }
 }
