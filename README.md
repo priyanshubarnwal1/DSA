@@ -100,6 +100,7 @@
 | [0013-roman-to-integer](https://github.com/priyanshubarnwal1/DSA/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/priyanshubarnwal1/DSA/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/priyanshubarnwal1/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/priyanshubarnwal1/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/priyanshubarnwal1/DSA/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/priyanshubarnwal1/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/priyanshubarnwal1/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -212,6 +213,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/priyanshubarnwal1/DSA/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/priyanshubarnwal1/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/priyanshubarnwal1/DSA/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/priyanshubarnwal1/DSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -301,6 +303,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/priyanshubarnwal1/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/priyanshubarnwal1/DSA/tree/master/0022-generate-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/priyanshubarnwal1/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/priyanshubarnwal1/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
