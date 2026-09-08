@@ -107,6 +107,7 @@
 | [0125-valid-palindrome](https://github.com/priyanshubarnwal1/DSA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/priyanshubarnwal1/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/priyanshubarnwal1/DSA/tree/master/0242-valid-anagram) |
+| [0402-remove-k-digits](https://github.com/priyanshubarnwal1/DSA/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/priyanshubarnwal1/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/priyanshubarnwal1/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/priyanshubarnwal1/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -223,6 +224,7 @@
 | [0155-min-stack](https://github.com/priyanshubarnwal1/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/priyanshubarnwal1/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/priyanshubarnwal1/DSA/tree/master/0234-palindrome-linked-list) |
+| [0402-remove-k-digits](https://github.com/priyanshubarnwal1/DSA/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/priyanshubarnwal1/DSA/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/priyanshubarnwal1/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/priyanshubarnwal1/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -253,6 +255,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/priyanshubarnwal1/DSA/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/priyanshubarnwal1/DSA/tree/master/0410-split-array-largest-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/priyanshubarnwal1/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Queue
@@ -369,5 +372,6 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0402-remove-k-digits](https://github.com/priyanshubarnwal1/DSA/tree/master/0402-remove-k-digits) |
 | [2104-sum-of-subarray-ranges](https://github.com/priyanshubarnwal1/DSA/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
