@@ -229,6 +229,7 @@
 | [0234-palindrome-linked-list](https://github.com/priyanshubarnwal1/DSA/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/priyanshubarnwal1/DSA/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/priyanshubarnwal1/DSA/tree/master/0735-asteroid-collision) |
+| [0901-online-stock-span](https://github.com/priyanshubarnwal1/DSA/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/priyanshubarnwal1/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/priyanshubarnwal1/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2104-sum-of-subarray-ranges](https://github.com/priyanshubarnwal1/DSA/tree/master/2104-sum-of-subarray-ranges) |
@@ -369,6 +370,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/priyanshubarnwal1/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/priyanshubarnwal1/DSA/tree/master/0225-implement-stack-using-queues) |
+| [0901-online-stock-span](https://github.com/priyanshubarnwal1/DSA/tree/master/0901-online-stock-span) |
 ## Simulation
 |  |
 | ------- |
@@ -378,5 +380,10 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/priyanshubarnwal1/DSA/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/priyanshubarnwal1/DSA/tree/master/0402-remove-k-digits) |
+| [0901-online-stock-span](https://github.com/priyanshubarnwal1/DSA/tree/master/0901-online-stock-span) |
 | [2104-sum-of-subarray-ranges](https://github.com/priyanshubarnwal1/DSA/tree/master/2104-sum-of-subarray-ranges) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/priyanshubarnwal1/DSA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
