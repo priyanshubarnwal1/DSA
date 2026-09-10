@@ -30,6 +30,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/priyanshubarnwal1/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0410-split-array-largest-sum](https://github.com/priyanshubarnwal1/DSA/tree/master/0410-split-array-largest-sum) |
+| [0503-next-greater-element-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0503-next-greater-element-ii) |
 | [0525-contiguous-array](https://github.com/priyanshubarnwal1/DSA/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/priyanshubarnwal1/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/priyanshubarnwal1/DSA/tree/master/0704-binary-search) |
@@ -228,6 +229,7 @@
 | [0225-implement-stack-using-queues](https://github.com/priyanshubarnwal1/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/priyanshubarnwal1/DSA/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/priyanshubarnwal1/DSA/tree/master/0402-remove-k-digits) |
+| [0503-next-greater-element-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/priyanshubarnwal1/DSA/tree/master/0735-asteroid-collision) |
 | [0901-online-stock-span](https://github.com/priyanshubarnwal1/DSA/tree/master/0901-online-stock-span) |
 | [1021-remove-outermost-parentheses](https://github.com/priyanshubarnwal1/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -380,6 +382,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/priyanshubarnwal1/DSA/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/priyanshubarnwal1/DSA/tree/master/0402-remove-k-digits) |
+| [0503-next-greater-element-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/priyanshubarnwal1/DSA/tree/master/0901-online-stock-span) |
 | [2104-sum-of-subarray-ranges](https://github.com/priyanshubarnwal1/DSA/tree/master/2104-sum-of-subarray-ranges) |
 ## Data Stream
