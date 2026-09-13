@@ -37,6 +37,7 @@
 | [0704-binary-search](https://github.com/priyanshubarnwal1/DSA/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/priyanshubarnwal1/DSA/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/priyanshubarnwal1/DSA/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/priyanshubarnwal1/DSA/tree/master/0860-lemonade-change) |
 | [0918-maximum-sum-circular-subarray](https://github.com/priyanshubarnwal1/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/priyanshubarnwal1/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/priyanshubarnwal1/DSA/tree/master/0986-interval-list-intersections) |
@@ -267,6 +268,7 @@
 | [0402-remove-k-digits](https://github.com/priyanshubarnwal1/DSA/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/priyanshubarnwal1/DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/priyanshubarnwal1/DSA/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/priyanshubarnwal1/DSA/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/priyanshubarnwal1/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Queue
 |  |
