@@ -51,6 +51,7 @@
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/priyanshubarnwal1/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2104-sum-of-subarray-ranges](https://github.com/priyanshubarnwal1/DSA/tree/master/2104-sum-of-subarray-ranges) |
 | [2404-most-frequent-even-element](https://github.com/priyanshubarnwal1/DSA/tree/master/2404-most-frequent-even-element) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/priyanshubarnwal1/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/priyanshubarnwal1/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1248-count-number-of-nice-subarrays](https://github.com/priyanshubarnwal1/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/priyanshubarnwal1/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/priyanshubarnwal1/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## String
 |  |
 | ------- |
@@ -150,6 +152,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/priyanshubarnwal1/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/priyanshubarnwal1/DSA/tree/master/0455-assign-cookies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyanshubarnwal1/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/priyanshubarnwal1/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Counting
 |  |
 | ------- |
@@ -162,6 +165,7 @@
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/priyanshubarnwal1/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyanshubarnwal1/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/priyanshubarnwal1/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Linked List
 |  |
 | ------- |
@@ -199,6 +203,7 @@
 | [0986-interval-list-intersections](https://github.com/priyanshubarnwal1/DSA/tree/master/0986-interval-list-intersections) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/priyanshubarnwal1/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/priyanshubarnwal1/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/priyanshubarnwal1/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Binary Search
 |  |
 | ------- |
@@ -277,6 +282,7 @@
 | [0455-assign-cookies](https://github.com/priyanshubarnwal1/DSA/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/priyanshubarnwal1/DSA/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/priyanshubarnwal1/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/priyanshubarnwal1/DSA/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Queue
 |  |
 | ------- |
