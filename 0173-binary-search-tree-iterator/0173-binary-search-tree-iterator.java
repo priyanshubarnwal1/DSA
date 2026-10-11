@@ -13,28 +13,36 @@
  *     }
  * }
  */
+
 class BSTIterator {
-   private Stack<TreeNode> stack = new Stack<TreeNode>();
+    Stack<TreeNode> stack = new Stack<>();
 
     public BSTIterator(TreeNode root) {
-     pushAll(root);     
+        pushLeft(root);
     }
-    
+
+    private void pushLeft(TreeNode node) {
+        while (node != null) {
+            stack.push(node);
+            node = node.left;
+        }
+    }
+
     public int next() {
-        TreeNode tmpNode = stack.pop();
-        pushAll(tmpNode.right);
-        return tmpNode.val;
+        TreeNode node = stack.pop();
+
+        if (node.right != null) {
+            pushLeft(node.right);
+        }
+
+        return node.val;
     }
-    
+
     public boolean hasNext() {
         return !stack.isEmpty();
     }
-  private void pushAll(TreeNode node) {
-        for (; node != null; node = node.left) {
-            stack.push(node);
-        }
-    }
 }
+
 
 /**
  * Your BSTIterator object will be instantiated and called as such:
