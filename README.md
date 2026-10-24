@@ -32,6 +32,7 @@
 | [0217-contains-duplicate](https://github.com/priyanshubarnwal1/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/priyanshubarnwal1/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/priyanshubarnwal1/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/priyanshubarnwal1/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -208,6 +209,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/priyanshubarnwal1/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/priyanshubarnwal1/DSA/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/priyanshubarnwal1/DSA/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/priyanshubarnwal1/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/priyanshubarnwal1/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/priyanshubarnwal1/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/priyanshubarnwal1/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
